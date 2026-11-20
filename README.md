@@ -7,7 +7,7 @@
 
 <img src="docs/walk.gif" width="600" alt="작업 표시줄 위를 걸어다니는 퇴근 요정">
 
-### [⬇️ 다운로드 (최신 버전)](https://github.com/soyoonjeong/offwork-fairy/releases/latest)
+### [🌐 소개 페이지](https://soyoonjeong.github.io/offwork-fairy/) · [⬇️ 다운로드 (최신 버전)](https://github.com/soyoonjeong/offwork-fairy/releases/latest/download/OffWorkFairy.zip)
 
 Windows 10 / 11 · 무료 · 설치 1분
 
